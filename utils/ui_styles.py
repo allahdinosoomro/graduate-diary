@@ -1,0 +1,1 @@
+LIGHT_STYLE = "QMainWindow{background:#f5f9ff;color:#0b2b5a;}QFrame.card{background:#fff;border-radius:12px;}"; DARK_STYLE = "QMainWindow{background:#0f1226;color:#eaf2ff;}"; ACCENT_BLUE="QWidget{--accent:#2D9CDB;}"; ACCENT_EMERALD="QWidget{--accent:#28C76F;}"; ACCENT_VIOLET="QWidget{--accent:#9B7AFF;}"; ACCENT_SUNSET="QWidget{--accent:#FF7A59;}"
